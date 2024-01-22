@@ -2,7 +2,7 @@
   "name": "book-club-bot",
   "version": "1.0.0",
   "main": "app.js",
-  "repository": "ssh://git@github.com/jchuder/book-club-bot.git",
+  "repository": "https://github.com/jchuder/book-club-bot.git",
   "author": "Jessie.H <61487174+jchuder@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
