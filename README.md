@@ -39,3 +39,7 @@ yarn dev
 yarn deploy-commands
 
 ```
+
+## Reference
+
+<https://github.com/FissionFeline/discord-js-template>

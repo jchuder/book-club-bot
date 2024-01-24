@@ -1,0 +1,19 @@
+# IDE/Editor
+.vscode
+.idea
+
+# Package Manager
+package-lock.json
+yarn.lock
+
+# Dependency directories
+node_modules/
+
+# Compiled output
+build/
+
+# Tools
+.husky
+.prettierignore
+.gitignore
+.eslintrc.js
